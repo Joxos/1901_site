@@ -14,3 +14,12 @@ Since TypeScript cannot handle type information for `.vue` imports, they are shi
 2. Reload the VS Code window by running `Developer: Reload Window` from the command palette.
 
 You can learn more about Take Over mode [here](https://github.com/johnsoncodehk/volar/discussions/471).
+
+## Important Commands Executed
+
+```bash
+pnpm create vite 1901_site -- --template vue
+pnpm install
+pnpm run dev
+pnpm i -D unocss @unocss/preset-wind @unocss/preset-attributify
+```
