@@ -6,6 +6,7 @@ specifiers:
   '@types/node': ^16.11.56
   '@unocss/preset-attributify': ^0.45.18
   '@unocss/preset-icons': ^0.45.18
+  '@unocss/preset-web-fonts': ^0.45.18
   '@unocss/preset-wind': ^0.45.18
   '@vitejs/plugin-vue': ^3.0.3
   '@vue/eslint-config-typescript': ^11.0.0
@@ -32,6 +33,7 @@ devDependencies:
   '@types/node': 16.11.58
   '@unocss/preset-attributify': 0.45.18
   '@unocss/preset-icons': 0.45.18
+  '@unocss/preset-web-fonts': 0.45.18
   '@unocss/preset-wind': 0.45.18
   '@vitejs/plugin-vue': 3.1.0_vite@3.1.0+vue@3.2.39
   '@vue/eslint-config-typescript': 11.0.1_r4pnssklstyy5blkxbeioxjlhm

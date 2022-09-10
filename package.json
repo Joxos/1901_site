@@ -20,6 +20,7 @@
     "@types/node": "^16.11.56",
     "@unocss/preset-attributify": "^0.45.18",
     "@unocss/preset-icons": "^0.45.18",
+    "@unocss/preset-web-fonts": "^0.45.18",
     "@unocss/preset-wind": "^0.45.18",
     "@vitejs/plugin-vue": "^3.0.3",
     "@vue/eslint-config-typescript": "^11.0.0",
