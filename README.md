@@ -44,3 +44,9 @@ pnpm build
 ```sh
 pnpm lint
 ```
+
+## Important Commands Executed
+
+``` sh
+pnpm i -D unocss
+```
